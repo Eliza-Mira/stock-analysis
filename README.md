@@ -34,4 +34,5 @@ Refactor code in an attempt to run the code more efficiently and make it easier 
 >> <img src="https://github.com/Eliza-Mira/stock-analysis/blob/main/Resources/2018%20RunTimeRefactored.png" width="650">
 
 ## Summary:
-Refactoring can be time consuming if you cannot identify opportunities how your code can be refactored and there is a of compromising the output editing your initial code inaccurately.  However, if you can successfully refactor your code, your machine won’t have to run so hard to process the code and you will have your output much quicker.
+
+Refactoring can be time consuming if you cannot identify how your code can be refactored.  You also risk compromising the output if you refactor your code inaccurately.  However, if you can successfully refactor your code, your machine won’t have to run so hard to process the code and you will have your output much quicker.
