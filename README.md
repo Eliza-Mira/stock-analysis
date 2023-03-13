@@ -1,8 +1,13 @@
-# stock-analysis (M2: VBA)
-Stockprice comparison
+***
+
+Module 2: VBA 
+
+***
+
+# stock-analysis
 
 ## Overview:
-Analyze stocks daily volumes and annual returns for years 2017 and 2018.
+Stockprice comparison: Analyze stocks daily volumes and annual returns for years 2017 and 2018.
 
 ## Purpose:
 Refactor code in an attempt to run the code more efficiently and make it easier to read.
